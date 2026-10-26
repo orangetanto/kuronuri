@@ -5,5 +5,5 @@ CSSアニメーションの練習として作成しているので、コード�
 
 元動画	 : 黒塗り世界宛て書簡/重音テト (https://youtu.be/8BekVGwSX3c) <br>
 本家	 : Frog96様						(https://x.com/2r96) <br>
-制作	 : きたきつね｡					(https://x.com/orange_tanto_2) <br>
+制作	 : きたきつね｡					(https://x.com/n0rth_fox) <br>
 Font	 : Noto Sans Japanese
